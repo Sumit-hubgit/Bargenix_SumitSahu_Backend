@@ -165,5 +165,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any queries or support, please contact:
 - **Developer**: Sumit Sahu
 - **Email**: sumitsahu7017@gmail.com
-- **LinkedIn**: [linkedin.com/sumit]((https://www.linkedin.com/in/sumit-sahu-b53178225/))
+- **LinkedIn**: [Sumit Sahu](https://www.linkedin.com/in/sumit-sahu-b53178225/)
 
